@@ -1,30 +1,12 @@
-# Hydejack Starter Kit
+# GDG Hudson Valley
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://qwtel.com/hydejack/).
+The [Google Developer Group, Hudson Valley](https://meetup.com/gdg-hudson-valley) is an official [Google Developers](https://developers.google.com) community that covers the Greater Hudson Valley region from Westchester County (lower Hudson Valley) to Albany County (upper Hudson Valley). 
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. `bundle install` [^1]
-4. `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+This is a community of technologists interested in Google-developed or Google-supported platforms, services, tools, concepts and content. We cover everything from mobile & web development to machine learning, artificial intelligence, internet-of-things, smart assistants, wearables to , cloud computing and more. Our events can range from evening meetups (2 hours) to all-day workshops and multi-week study camps.
 
-### GitHub Pages
-1. Fork this repository.
-2. Go to **Settings**, rename repository to `<your github username>.github.io` (without the `<` `>`)
-3. Edit `_config.yml` (you can do this directly on GitHub)
-    1. Change `url` to `https://<your github username>.github.io` (without the `<` `>`)
-    2. Change `baseurl` to `''` (empty string)
-    3. **Commit changes**.
-4. Go to **Settings** again, look for **GitHub Pages**, set **Source** to **master branch**.
-5. Click **Save** and wait for GitHub to set up your new blag.
+ * Join our [Meetup](https://meetup.com/gdg-hudson-valley).
+ * Join our [Slack](https://gdghv.herokuapp.com)
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://qwtel.com/hydejack/docs/)
-* Buy the [PRO version](https://qwtel.com/hydejack/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+## About this website
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
-
-[download]: https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
+This website is hosted on Github Pages, and is created using the [Hydejack Starter Kit](https://qwtel.com/hydejack/) Jekyll them. Read more about how to [customize](https://qwtel.com/hydejack/docs) the theme.
